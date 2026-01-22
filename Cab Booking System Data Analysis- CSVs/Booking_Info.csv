@@ -1,0 +1,91 @@
+Booking_ID,Customer_ID,Driver_ID,Vehicle_ID,Booking_Time,Pick_up_Location,Drop_off_Location,Distance,Trip_Duration_Minutes,Fare,Status
+1,42,201,105,01-04-2025  09:00:00,Anytown,Villagetown,15.3,30,485.5,Completed
+2,5,204,102,01-04-2025  14:30:00,New York City,New York City,10.5,25,335,Canceled_by_Driver
+3,23,206,103,02-04-2025  18:00:00,Villagetown,Hamlet,22.1,40,625.5,Completed
+4,5,208,106,02-04-2025  10:45:00,Cityville,New York City,8.2,15,220,Completed
+5,5,212,109,03-04-2025  11:30:00,Suburbia,Metroville,18,35,510,Canceled_by_Customer
+6,18,215,111,03-04-2025  12:45:00,Metroville,Metropolis,7.5,20,310,Completed
+7,2,218,109,04-04-2025  08:00:00,Hamlet,Borough,12.6,30,385,Completed
+8,28,202,101,04-04-2025  15:15:00,Borough,Hamlet,25.4,45,760,Completed
+9,44,205,112,05-04-2025  19:30:00,Township,New York City,17.8,35,555,Completed
+10,33,207,110,06-04-2025  09:00:00,Metropolis,Suburbia,30.1,50,930,Completed
+11,25,210,107,06-04-2025  10:15:00,Cityville,Township,11.2,25,385,Completed
+12,49,213,101,06-04-2025  16:00:00,Suburbia,Borough,14.7,30,495,Completed
+13,33,216,102,07-04-2025  17:45:00,Metroville,Borough,19.3,40,560,Canceled_by_Driver
+14,21,219,107,07-04-2025  21:00:00,Township,Cityville,16.5,35,455,Completed
+15,36,203,108,08-04-2025  13:00:00,Borough,Township,9.8,20,315,Completed
+16,16,207,110,08-04-2025  10:00:00,Hamlet,Villagetown,28.6,50,810,Completed
+17,24,211,113,09-04-2025  11:45:00,Metropolis,Hamlet,13.1,25,410,Completed
+18,18,214,105,09-04-2025  16:30:00,Anytown,Borough,18.9,35,525,Completed
+19,45,219,107,10-04-2025  09:00:00,Cityville,Township,17,35,530,Canceled_by_Customer
+20,41,220,104,10-04-2025  14:00:00,Villagetown,Metropolis,10,20,305,Completed
+21,5,203,108,11-04-2025  10:30:00,Suburbia,Suburbia,15.8,30,480,Canceled_by_Customer
+22,10,220,104,11-04-2025  11:45:00,New York City,Metroville,30,50,930,Canceled_by_Customer
+23,22,204,102,12-04-2025  17:00:00,Suburbia,Othertown,13.4,25,470,Completed
+24,1,206,103,13-04-2025  19:30:00,Metroville,Villagetown,16.9,35,545,Completed
+25,37,208,106,14-04-2025  08:30:00,Hamlet,Cityville,11.5,25,335,Completed
+26,40,212,109,14-04-2025  15:00:00,Borough,Suburbia,20.2,40,595,Completed
+27,26,215,111,15-04-2025  18:00:00,Township,Metroville,8.9,20,310,Completed
+28,27,218,109,15-04-2025  10:00:00,Metropolis,Hamlet,14.2,30,435,Completed
+29,28,202,101,16-04-2025  16:30:00,Cityville,Borough,24.8,45,745,Completed
+30,29,205,112,17-04-2025  20:00:00,Suburbia,Township,18.5,35,520,Completed
+31,10,207,110,18-04-2025  09:30:00,Metropolis,Suburbia,30.1,50,915,Canceled_by_Customer
+32,30,210,107,19-04-2025  10:45:00,Metroville,Cityville,11.8,25,375,Completed
+33,31,213,101,19-04-2025  16:15:00,Township,Suburbia,15.4,30,485,Completed
+34,32,216,102,20-04-2025  17:30:00,Borough,Metroville,19.9,40,600,Completed
+35,33,219,107,20-04-2025  21:30:00,Hamlet,Township,17.2,35,530,Completed
+36,34,203,108,21-04-2025  13:30:00,Metropolis,Borough,10.1,20,320,Completed
+37,35,207,110,21-04-2025  10:30:00,Anytown,Hamlet,29.5,50,800,Completed
+38,36,211,113,22-04-2025  11:45:00,Othertown,Metropolis,13.9,25,415,Completed
+39,37,214,105,22-04-2025  16:30:00,Villagetown,Anytown,19.6,35,545,Completed
+40,38,217,104,23-04-2025  09:00:00,Cityville,Othertown,22,45,680,Completed
+41,45,220,104,23-04-2025  14:00:00,New York City,Villagetown,10.5,20,325,Canceled_by_Customer
+42,39,203,108,24-04-2025  10:30:00,Suburbia,Metropolis,16.2,30,460,Completed
+43,40,201,105,25-04-2025  11:45:00,Metroville,Cityville,10.8,20,315,Completed
+44,41,204,102,25-04-2025  17:00:00,Hamlet,Suburbia,14.9,25,440,Completed
+45,5,210,107,26-04-2025  19:30:00,Suburbia,Cityville,10.5,25,345,Canceled_by_Customer
+46,43,208,106,27-04-2025  08:30:00,Township,Hamlet,12.1,25,370,Completed
+47,44,212,109,28-04-2025  15:00:00,Metropolis,Borough,21,40,615,Completed
+48,46,215,111,28-04-2025  18:00:00,Suburbia,Township,9.3,20,330,Completed
+49,47,218,109,29-04-2025  10:00:00,Metroville,Metropolis,14.8,30,445,Completed
+50,48,202,101,29-04-2025  16:30:00,Township,Cityville,25.1,45,755,Completed
+51,49,205,112,30-04-2025  20:00:00,Borough,Suburbia,19.2,35,530,Completed
+52,50,207,110,01-05-2025  09:30:00,Hamlet,Metropolis,30.5,50,920,Completed
+53,42,206,103,01-05-2025  10:00:00,Borough,Metroville,17.5,35,530,Completed
+54,10,213,101,02-05-2025  16:15:00,Metropolis,Suburbia,15.8,30,490,Canceled_by_Customer
+55,15,202,101,03-05-2025  17:30:00,Borough,Township,25.5,45,740,Completed
+56,30,217,104,04-05-2025  21:30:00,Othertown,Township,21.5,45,660,Completed
+57,1,203,108,05-05-2025  13:30:00,Anytown,Borough,10.3,20,325,Completed
+58,2,207,110,05-05-2025  10:30:00,Othertown,Hamlet,29.8,50,805,Completed
+59,3,211,113,06-05-2025  11:45:00,Villagetown,Metropolis,13.5,25,420,Completed
+60,4,214,105,06-05-2025  16:30:00,Cityville,Anytown,19.1,35,550,Completed
+61,5,217,104,07-05-2025  09:00:00,Suburbia,Othertown,21.8,45,685,Canceled_by_Customer
+62,6,220,104,07-05-2025  14:00:00,Metroville,Villagetown,10.2,20,310,Completed
+63,7,203,108,08-05-2025  10:30:00,Hamlet,Suburbia,16.5,30,480,Completed
+64,8,201,105,08-05-2025  11:45:00,Borough,Metroville,11,20,340,Completed
+65,9,204,102,09-05-2025  17:00:00,Township,Hamlet,15.1,25,460,Completed
+66,10,206,103,09-05-2025  19:30:00,Metropolis,Borough,17.9,35,510,Canceled_by_Customer
+67,11,208,106,10-05-2025  08:30:00,Cityville,Township,12.4,25,370,Completed
+68,12,212,109,10-05-2025  15:00:00,Suburbia,Metropolis,20.7,40,625,Completed
+69,13,215,111,11-05-2025  18:00:00,Metroville,Suburbia,9.1,20,330,Completed
+70,14,218,109,12-05-2025  10:00:00,Township,Metroville,15,30,440,Completed
+71,33,216,102,12-05-2025  16:30:00,Hamlet,Metroville,19.5,40,600,Canceled_by_Customer
+72,16,205,112,13-05-2025  20:00:00,Hamlet,Borough,19.4,35,545,Completed
+73,17,207,110,14-05-2025  09:30:00,Metropolis,Hamlet,30.8,50,930,Completed
+74,18,210,107,15-05-2025  10:45:00,Anytown,Suburbia,10.9,25,340,Completed
+75,45,201,105,16-05-2025  16:15:00,New York City,Borough,28,55,795,Canceled_by_Driver
+76,20,216,102,17-05-2025  17:30:00,Villagetown,Suburbia,17.6,35,550,Completed
+77,21,219,107,17-05-2025  21:30:00,Cityville,Metropolis,15.9,30,480,Completed
+78,22,203,108,18-05-2025  13:30:00,Suburbia,Anytown,9.5,20,320,Completed
+79,23,207,110,18-05-2025  10:30:00,Metroville,Othertown,13.2,25,400,Completed
+80,24,211,113,19-05-2025  11:45:00,Hamlet,Villagetown,17.1,35,510,Completed
+81,25,214,105,19-05-2025  16:30:00,Borough,Cityville,11.9,25,360,Completed
+82,5,217,104,20-05-2025  09:00:00,New York City,Cityville,25,45,770,Canceled_by_Driver
+83,21,201,105,20-05-2025  14:00:00,Cityville,Anytown,9.6,20,300,Completed
+84,33,203,108,21-05-2025  10:30:00,New York City,Anytown,35,60,950,Canceled_by_Customer
+85,19,213,101,21-05-2025  11:45:00,Othertown,Metropolis,16,30,490,Completed
+86,26,204,102,22-05-2025  17:00:00,New York City,Township,20,40,605,Completed
+87,27,206,103,23-05-2025  19:30:00,New York City,Suburbia,38,75,1040,Completed
+88,28,208,106,23-05-2025  08:30:00,New York City,Metropolis,29.5,50,810,Completed
+89,29,212,109,24-05-2025  15:00:00,New York City,Metroville,30,50,845,Completed
+90,30,215,111,24-05-2025  18:00:00,New York City,Township,15,30,490,Completed

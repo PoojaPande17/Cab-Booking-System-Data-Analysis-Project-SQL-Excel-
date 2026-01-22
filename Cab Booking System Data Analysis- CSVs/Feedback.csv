@@ -1,0 +1,64 @@
+Feedback_ID,Feedback_Date,Customer_ID,Driver_ID,Trip_ID,Review,Rating
+1,01-04-2025,42,201,1,"Great ride, on time and very professional driver.",5
+2,04-04-2025,5,208,3,"Quick trip, excellent service!",4.8
+3,06-04-2025,18,215,4,Very smooth and comfortable ride. Driver was friendly.,5
+4,07-04-2025,2,218,5,Driver was a bit late but the ride was fine.,3
+5,07-04-2025,44,205,7,Driver was on his phone too much. Made me uncomfortable.,2
+6,08-04-2025,23,206,2,The driver was polite but took a longer route than expected.,3.5
+7,09-04-2025,33,207,8,Excellent service and a clean vehicle. Very happy.,5
+8,09-04-2025,25,210,9,The ride was okay. Nothing special.,3
+9,10-04-2025,49,213,10,Driver was courteous and drove safely.,4.5
+10,11-04-2025,36,203,12,Not the best driver. The ride was bumpy and fast.,2.5
+11,11-04-2025,16,207,13,Good communication from the driver. Trip was perfect.,5
+12,12-04-2025,24,211,14,Driver got lost several times. Wasted my time.,1.5
+13,12-04-2025,18,214,15,"Polite driver, clean car. A great experience.",5
+14,14-04-2025,22,204,17,The driver arrived very quickly. Impressed!,5
+15,16-04-2025,37,208,19,Prompt and efficient service. Highly recommend.,4.5
+16,17-04-2025,27,218,22,Driver was on time and very courteous.,4.5
+17,17-04-2025,1,206,18,Driver seemed distracted. Made me nervous.,2
+18,19-04-2025,28,202,23,"Trip was ok, nothing outstanding.",3
+19,19-04-2025,29,205,24,Reliable and friendly driver.,5
+20,21-04-2025,30,210,25,The driver was friendly but the car had a strange smell.,2.5
+21,22-04-2025,31,213,26,Very good experience. The driver was excellent.,5
+22,22-04-2025,32,216,27,The driver did not follow my directions well.,1.5
+23,23-04-2025,34,203,29,Driver was great. Clean car and good service.,5
+24,24-04-2025,35,207,30,"Good trip, driver was communicative.",4
+25,25-04-2025,36,211,31,Very professional driver. Smooth ride.,5
+26,26-04-2025,39,203,34,Quick and easy trip. Happy with the service.,4.5
+27,27-04-2025,40,201,35,The driver was rude and impatient. Unhappy with my experience.,1
+28,29-04-2025,43,208,37,Driver was pleasant and the vehicle was clean.,4.5
+29,30-04-2025,44,212,38,The trip was long and uncomfortable. Car seemed old.,2
+30,30-04-2025,38,217,33,Excellent driver. Very safe and quick.,5
+31,30-04-2025,46,215,39,"Quick trip, friendly driver.",4.5
+32,02-05-2025,47,218,40,Reliable driver and smooth ride.,5
+33,02-05-2025,49,205,42,Excellent driver. Very happy with the service.,5
+34,04-05-2025,50,207,43,Driver was a little late but made up for it with good service.,3.5
+35,04-05-2025,42,206,44,Good communication and a friendly driver.,4
+36,05-05-2025,15,202,45,The driver was professional and the ride was comfortable.,5
+37,07-05-2025,30,217,46,Trip was a bit longer than expected but the driver was nice.,3.5
+38,07-05-2025,1,203,47,Driver was great. No complaints.,5
+39,08-05-2025,2,207,48,Very reliable driver. Would book again.,5
+40,09-05-2025,3,211,49,Driver seemed distracted. The car was a little messy.,2.5
+41,09-05-2025,6,220,51,Driver was on time and got me there with no issues.,4
+42,10-05-2025,7,203,52,Quick and easy trip. Happy with the service.,4.5
+43,10-05-2025,8,201,53,Excellent driver. Clean vehicle.,5
+44,11-05-2025,9,204,54,Driver was very friendly and professional.,5
+45,13-05-2025,13,215,57,Good ride. The driver was very nice.,4.5
+46,14-05-2025,14,218,58,Driver was quick and efficient. Reliable service.,5
+47,15-05-2025,16,205,59,The driver was very professional and the ride was comfortable.,5
+48,16-05-2025,11,208,55,Good experience. Driver was on time.,4
+49,16-05-2025,17,207,60,Driver was a little late. The vehicle was old.,2.5
+50,17-05-2025,18,210,61,"Quick trip, friendly and efficient driver.",5
+51,19-05-2025,20,216,62,The driver got lost and was rude when I corrected them.,1
+52,19-05-2025,21,219,63,"Smooth ride, polite driver.",4.5
+53,20-05-2025,22,203,64,Driver was on time. Good service.,4
+54,21-05-2025,23,207,65,"Quick trip, driver was nice.",4.5
+55,22-05-2025,24,211,66,The driver was professional and the ride was comfortable.,5
+56,25-05-2025,26,204,70,On time and professional service.,5
+57,25-05-2025,27,206,71,The trip was very long but the driver was a good driver.,3.5
+58,26-05-2025,28,208,72,Driver was excellent. Very satisfied.,5
+59,27-05-2025,29,212,73,"Pleasant ride, friendly driver.",4
+60,30-05-2025,21,201,68,The driver was efficient and polite.,5
+61,31-05-2025,19,213,69,Driver drove too fast. Felt unsafe.,1
+62,01-06-2025,30,215,74,Driver was on time. Good service.,4
+63,01-06-2025,29,212,73,"Pleasant ride, friendly driver.",4
